@@ -1,4 +1,5 @@
 # StephaniesRecipes
+
 Recipe app with automatic grocery list.
 
 Simple recipe writer to add your own recipes manually.
