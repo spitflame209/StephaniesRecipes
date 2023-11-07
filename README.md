@@ -11,3 +11,5 @@ Integrated weekly menu selector that produces an automatic grocery list.
 Interactive grocery list with simple checkmark ui.
 
 History of menus and grocery lists.
+
+Connect APIs for integration into Walmart or Dillons grocery pick up apps
